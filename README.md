@@ -2,7 +2,7 @@
 
 🎮 A retro-style Ping Pong game built using **HTML**, **CSS**, and **Vanilla JavaScript** — complete with smooth ball movement, keyboard controls, background music, and dynamic win detection!
 
-> 🚀 Live Demo: [Play Now](https://karangade24.github.io/PingPongGame/)
+🚀 Live Demo: [Play Now](https://karangade24.github.io/PingPongGame/)
 
 ---
 
